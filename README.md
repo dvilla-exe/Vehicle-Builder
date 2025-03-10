@@ -9,7 +9,7 @@ A simple command line app that allows a user to create and operate a created veh
 Download all necessary .ts and .js files from github and install all necessary node packages
 
 ## Usage
-To use this project simply run 'npm start'
+To use this project simply run 'npm start' A walkthrough of this app is located at https://youtu.be/X-UCICYO6cU?si=4w6Kqmc_HkNHsXjY
 
 ## Contributing
 Others can contribute by adding more vehicle customization options and driving commands
